@@ -59,13 +59,13 @@ header-includes: |
 
 Setzen Sie sich mit den folgenden W3C - Tutorials auseinander, um zu lernen wie man:
 
-- [\textcolor{blue}{Joins}](https://www.w3schools.com/sql/sql_join.asp)und [\textcolor{blue}{Inner Joins}](https://www.w3schools.com/sql/sql_join_inner.asp),
+- [\textcolor{blue}{Joins}](https://www.w3schools.com/sql/sql_join.asp) und [\textcolor{blue}{Inner Joins}](https://www.w3schools.com/sql/sql_join_inner.asp),
 - [\textcolor{blue}{Group By}](https://www.w3schools.com/sql/sql_groupby.asp),
 - [\textcolor{blue}{Order By}](https://www.w3schools.com/sql/sql_orderby.asp),
-- [\textcolor{blue}{Having}](https://www.w3schools.com/sql/sql_having.asp)und
+- [\textcolor{blue}{Having}](https://www.w3schools.com/sql/sql_having.asp) und
 - [\textcolor{blue}{Update}](https://www.w3schools.com/sql/sql_update.asp) 
 
-in SQL verwendet.
+in SQL verwendet, um präzise Abfragen über mehrere Relationen zu formulieren und die Ergebnisse in entsprechender Form darzustellen.
 
 ------
 
