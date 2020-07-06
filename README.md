@@ -55,7 +55,7 @@ header-includes: |
   |  2   | Manuel  | Baumarkt | 93047 | Schwandorf |
   |  3   | Hartmut | Ilsemann | 30159 | Hannover   |
 
-Verwenden Sie [\textcolor{blue}{DB Browser für SQLite}](https://sqlitebrowser.org/), um die Datenbank zu erstellen.
+Verwenden Sie [\textcolor{blue}{DB Browser für SQLite}](https://sqlitebrowser.org/), um jeweils eine Datenbank pro Aufgabe zu erstellen.
 
 
 
@@ -77,7 +77,7 @@ in SQL verwendet, um präzise Abfragen über mehrere Relationen zu formulieren u
 
 Laden Sie Ihre Antworten bis spätestens 13.07.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
-- Aufgabe 1: Ihre Datenbank mit den Tabellen in der entsprechenden Normalform (.sqlite)
+- Aufgabe 1: Ihre drei Datenbanken mit den Tabellen in der entsprechenden Normalform (.sqlite)
 
 
 Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
