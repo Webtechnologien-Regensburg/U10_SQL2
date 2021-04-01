@@ -25,7 +25,7 @@ header-includes: |
 ---
 
 
-# 09 | SQL Grundlagen 02
+# 10 | SQL Grundlagen 02
 
 ## Aufgabe 1: Normalisierung
 
