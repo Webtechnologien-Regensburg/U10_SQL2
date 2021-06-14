@@ -1,6 +1,6 @@
 ---
 title: SQL Grundlagen 02
-author: Martin Kocur
+author: Jakob Fehle
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -75,14 +75,14 @@ in SQL verwendet, um präzise Abfragen über mehrere Relationen zu formulieren u
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 13.07.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 24.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 1: Ihre drei Datenbanken mit den Tabellen in der entsprechenden Normalform (.sqlite)
 
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS20_9_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS21_10_Max_Mustermann.zip**
 
