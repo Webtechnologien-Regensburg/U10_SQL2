@@ -1,6 +1,6 @@
 ---
 title: SQL Grundlagen 02
-author: Jakob Fehle
+author: David Halbhuber
 documentclass: scrartcl
 classoption:
   - a4paper
